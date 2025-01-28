@@ -5,3 +5,9 @@ img {
     max-inline-size: 100% !important;
     height: auto !important;
 }
+
+@media only screen and (max-width: 480px) {
+    table {
+        width: auto !important;
+    }
+}
